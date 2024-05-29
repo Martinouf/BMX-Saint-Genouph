@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-blue-600 p-4 text-white">
+  <header class="bg-purple-600 p-4 text-white">
     <nav>
       <ul class="flex space-x-4">
         <li><router-link to="/" class="hover:underline">Accueil</router-link></li>

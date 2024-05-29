@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-gray-800 text-white p-4 text-center">
-    <p>&copy; 2024 Club BMX</p>
+    <p>&copy; Club BMX de Saint-Genouph</p>
   </footer>
 </template>
 
