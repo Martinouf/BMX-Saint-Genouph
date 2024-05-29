@@ -5,6 +5,8 @@ import ContactPage from '../views/ContactPage.vue';
 import MembersPage from '../views/MembersPage.vue';
 import PhotosPage from '../views/PhotosPage.vue';
 import EventsPage from '../views/EventsPage.vue';
+import AboutPage from '../views/AboutPage.vue';
+import TermsPage from '../views/TermsPage.vue';
 
 Vue.use(VueRouter);
 
@@ -33,6 +35,16 @@ const routes = [
     path: '/events',
     name: 'EventsPage',
     component: EventsPage,
+  },
+  {
+    path: '/about',
+    name: 'AboutPage',
+    component: AboutPage,
+  },
+  {
+    path: '/terms',
+    name: 'TermsPage',
+    component: TermsPage,
   },
 ];
 

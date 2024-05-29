@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <HeaderBmx />
-    <router-view />
+    <main>
+      <router-view />
+    </main>
     <FooterBmx />
   </div>
 </template>
@@ -20,5 +22,5 @@ export default {
 </script>
 
 <style>
-/* Ajoutez ici vos styles globaux */
+/* Ajoutez ici des styles supplémentaires si nécessaire */
 </style>
