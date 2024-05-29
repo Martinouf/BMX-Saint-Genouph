@@ -17,4 +17,20 @@ html, body {
   main {
     flex: 1;
   }
+
+  /* Cacher la scrollbar pour les navigateurs Webkit (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  
+  /* Cacher la scrollbar pour Internet Explorer, Edge */
+  body {
+    -ms-overflow-style: none; /* IE et Edge */
+  }
+  
+  /* Cacher la scrollbar pour Firefox */
+  html {
+    scrollbar-width: none; /* Firefox */
+  }
   
