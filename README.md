@@ -1,4 +1,4 @@
-# bmx-saint-genouph2
+# bmx-saint-genouph
 
 ## Project setup
 ```
