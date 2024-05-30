@@ -22,43 +22,43 @@ export default {
           name: 'Marjorie Ludeau',
           role: 'Présidente',
           description: 'La Présidente, gestion générale du club',
-          image: '@/assets/marjorie.png'
+          image: require('@/assets/marjorie.png')
         },
         {
           name: 'Laurent Sénécart',
           role: 'Vice-Président',
           description: 'Chargé des travaux sur la piste, des grandes organisations et sponsors',
-          image: '@/assets/laurent.png'
+          image: require('@/assets/laurent.png')
         },
         {
           name: 'Sandrine Coulot',
           role: 'Secrétaire',
           description: '',
-          image: '@/assets/sandrine.png'
+          image: require('@/assets/sandrine.png')
         },
         {
           name: 'Marie-Laure David',
           role: 'Trésorière',
           description: '',
-          image: '@/assets/marie.png'
+          image: require('@/assets/marie.png')
         },
         {
           name: 'Aurélien Chasles',
           role: 'Vice-Trésorier',
           description: '',
-          image: '@/assets/aurelien.png'
+          image: require('@/assets/aurelien.png')
         },
         {
           name: 'Damien Bossé',
           role: 'Membre actif',
           description: '',
-          image: '@/assets/damien.png'
+          image: require('@/assets/damien.png')
         },
         {
           name: 'Sandra Sénécart Delory',
           role: 'Membre actif',
           description: '',
-          image: '@/assets/sandra.png'
+          image: require('@/assets/sandra.png')
         }
       ]
     };
