@@ -10,7 +10,9 @@
       </div>
       <!-- Menu déroulant à droite -->
       <div class="relative">
-        <button @click="toggleDropdown" class="hover:underline">Menu</button>
+        <button @click="toggleDropdown" class="hover:underline">
+          <font-awesome-icon :icon="['fas', 'bars']" size="lg" />
+        </button>
         <div v-if="isDropdownOpen" class="absolute right-0 mt-2 w-48 bg-white text-black rounded-lg shadow-lg">
           <ul>
             <li><router-link to="/" class="block px-4 py-2 hover:bg-gray-200">Accueil</router-link></li>
