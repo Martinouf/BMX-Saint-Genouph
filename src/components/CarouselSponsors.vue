@@ -27,19 +27,49 @@
       return {
         slides: [
           {
+            image: '/images/Saint-Genouph.png',
+            title: 'Commune de Saint-Genouph',
+            description: '',
+          },
+          {
             image: '/images/MotivSolutions.jpg',
             title: 'MotivSolutions',
             description: '',
           },
           {
-            image: 'https://via.placeholder.com/800x400?text=Évènement+2',
-            title: 'Évènement 2',
-            description: 'Description de l\'évènement 2',
+            image: '/images/DRconstruction.jpg',
+            title: 'DR Construction',
+            description: '',
           },
           {
-            image: 'https://via.placeholder.com/800x400?text=Évènement+3',
-            title: 'Évènement 3',
-            description: 'Description de l\'évènement 3',
+            image: '/images/FDservices.jpg',
+            title: 'FD Services',
+            description: '',
+          },
+          {
+            image: '/images/AtelierDuBoucher.jpg',
+            title: 'Atelier du Boucher',
+            description: '',
+          },
+          {
+            image: '/images/Credit-Mutuel.png',
+            title: 'Crédit Mutuel',
+            description: '',
+          },
+          {
+            image: '/images/FrenchMUD.png',
+            title: 'French MUD',
+            description: '',
+          },
+          {
+            image: '/images/Pepiniere.webp',
+            title: 'Pépinière de l Entre-Deux Rives',
+            description: '',
+          },
+          {
+            image: '/images/Taxi.webp',
+            title: 'Taxi Barthélémy',
+            description: '',
           },
         ],
       };
