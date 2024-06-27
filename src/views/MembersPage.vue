@@ -59,6 +59,12 @@ export default {
           role: 'Membre actif',
           description: '',
           image: require('@/assets/sandra.png')
+        },
+        {
+          name: 'Maël Dragomirovic',
+          role: 'Entraîneur',
+          description: '',
+          image: require('@/assets/mael.jpg')
         }
       ]
     };

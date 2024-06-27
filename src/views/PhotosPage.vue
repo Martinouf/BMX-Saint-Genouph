@@ -14,9 +14,9 @@ export default {
     return {
       photos: [
         // Ajoutez ici les URLs de vos photos
-        'https://via.placeholder.com/300',
-        'https://via.placeholder.com/300',
-        'https://via.placeholder.com/300',
+        '/images/IMG-20240605-WA0002.jpg',
+        '/images/IMG-20240605-WA0003.jpg',
+        '/images/IMG-20240605-WA0004.jpg',
       ],
     };
   },

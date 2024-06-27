@@ -27,19 +27,19 @@ export default {
     return {
       slides: [
         {
-          image: 'https://via.placeholder.com/800x400?text=Photo+1',
-          title: 'Photo 1',
-          description: 'Description de la photo 1',
+          image: '/images/IMG-20240605-WA0002.jpg',
+          title: '',
+          description: 'Photo des pilotes mineurs',
         },
         {
-          image: 'https://via.placeholder.com/800x400?text=Photo+2',
-          title: 'Photo 2',
-          description: 'Description de la photo 2',
+          image: '/images/IMG-20240605-WA0003.jpg',
+          title: '',
+          description: 'Photo des pilotes mineurs',
         },
         {
-          image: 'https://via.placeholder.com/800x400?text=Photo+3',
-          title: 'Photo 3',
-          description: 'Description de la photo 3',
+          image: '/images/IMG-20240605-WA0004.jpg',
+          title: '',
+          description: 'Photo des pilotes mineurs',
         },
       ],
     };

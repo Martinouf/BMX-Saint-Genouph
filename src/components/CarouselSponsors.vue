@@ -18,7 +18,7 @@
   import { Carousel, Slide } from 'vue-carousel';
   
   export default {
-    name: 'CarouselEvents',
+    name: 'CarouselSponsors',
     components: {
       Carousel,
       Slide,
@@ -27,9 +27,9 @@
       return {
         slides: [
           {
-            image: 'https://via.placeholder.com/800x400?text=Évènement+1',
-            title: 'Évènement 1',
-            description: 'Description de l\'évènement 1',
+            image: '/images/MotivSolutions.jpg',
+            title: 'MotivSolutions',
+            description: '',
           },
           {
             image: 'https://via.placeholder.com/800x400?text=Évènement+2',

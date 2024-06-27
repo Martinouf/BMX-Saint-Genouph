@@ -44,20 +44,20 @@
     <h2 class="text-xl font-bold mt-8 mb-4">Photos</h2>
     <CarouselPhotos />
     
-    <h2 class="text-xl font-bold mt-8 mb-4">Évènements</h2>
-    <CarouselEvents />
+    <h2 class="text-xl font-bold mt-8 mb-4">Sponsors du club</h2>
+    <CarouselSponsors />
   </div>
 </template>
 
 <script>
 import CarouselPhotos from '../components/CarouselPhotos.vue';
-import CarouselEvents from '../components/CarouselEvents.vue';
+import CarouselSponsors from '../components/CarouselSponsors.vue';
 
 export default {
   name: 'HomePage',
   components: {
     CarouselPhotos,
-    CarouselEvents,
+    CarouselSponsors,
   },
 };
 </script>
