@@ -4,7 +4,7 @@
       <!-- Logo et texte G2X à gauche -->
       <div class="flex items-center space-x-2">
         <router-link to="/" class="flex items-center space-x-2">
-          <img src="@/assets/logo.png" alt="Logo" class="h-8 w-8" />
+          <img src="@/assets/logoBMX.png" alt="Logo" class="h-8 w-8" />
           <span class="font-bold">G2X</span>
         </router-link>
       </div>
